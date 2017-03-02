@@ -7,3 +7,6 @@ Keywords: ncurses, bash, kvm, qemu
 #
 Special thanks to opt1k of the LinuxBBQ community
 #
+#
+#
+PERSISTENT, ENCRYPTED, TOR, RED/SYS, POWERSHELL, LINUXBBQ, TAILS, WHONIX, SSH, HYPOVISOR, PYTHON, TOOLS
